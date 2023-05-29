@@ -387,12 +387,11 @@ footer{
 @media screen and (max-width: 768px) { section.section-0 {background-position: 75%;} }
 @media screen and (max-width: 525px) { div.main-text h1 {font-size: 46px;} }
 @media screen and (max-width: 525px) { section.section-1 h2 {font-size: 42px;} }
-@media screen and (max-width: 525px) { div.text-sec-3 h2 {font-size: 42px;} }
+@media screen and (max-width: 525px) { div.text-sec-3 h2 {font-size: 38px;} }
+@media screen and (max-width: 525px) { div.text-sec-3 p {font-size: 16px;} }
 @media screen and (max-width: 400px) { div.contact-block {width: 325px;} }
 @media screen and (max-width: 375px) { div.main-text h1 {font-size: 38px;} }
-@media screen and (max-width: 375px) { section.section-1 h2 {font-size: 36px;} }
-@media screen and (max-width: 375px) { div.text-sec-3 h2 {font-size: 38px;} }
-@media screen and (max-width: 375px) { div.text-sec-3 p {font-size: 16px;} }
+@media screen and (max-width: 375px) { section.section-1 h2 {font-size: 36px;} }
 
 
 
