@@ -1,3 +1,3 @@
 # Vagabond
 
-##Discover stoicism
+## Discover stoicism
